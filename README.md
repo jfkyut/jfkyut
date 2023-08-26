@@ -12,7 +12,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jfkyut&layout=compact&langs_count=16&theme=dracula"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfkyut&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently Learning:
 
